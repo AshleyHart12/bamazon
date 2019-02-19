@@ -4,7 +4,7 @@ Welcome to Bamazon! This application will allow customer to shop at your online 
 <br>
 After connecting to the databse, the customer will be shown a list of the products available:
 <br>
-![image of available products](/images/products.png)
+![image of available products](./images/products.png)
 <br>
 Your customer will be asked to choose the ID of the product they want to buy from the list, and how many units they want to purchase:
 <br>
