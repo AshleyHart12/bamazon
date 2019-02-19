@@ -1,4 +1,4 @@
-# Bamazon App . 
+# Bamazon App 
 <br>
 Welcome to Bamazon! This application will allow customer to shop at your online store.
 <br>
