@@ -4,11 +4,11 @@ Welcome to Bamazon! This application will allow customer to shop at your online 
 <br>
 After connecting to the databse, the customer will be shown a list of the products available:
 <br>
-![image of available products](./images/products.png)
+![image of available products](/images/products.png)
 <br>
 Your customer will be asked to choose the ID of the product they want to buy from the list, and how many units they want to purchase:
 <br>
-IMAGE
+![image of user prompts] (/images/prompts.png)
 <br>
 Once a selection is made, the app will print out the customer's 'receipt' with the product name, quantity, unit price, and the total charge:
 <br>
